@@ -7,11 +7,11 @@ background-color: red;
 h1 {
  color: blue;
  background-color: yellow;
- text-align: right;
+ text-align: left;
  border-width: 5px;
  border-color: black;
  border-style: double;
- border-radius:5px;
+ border-radius: 5px;
  }
  
 h2 {
