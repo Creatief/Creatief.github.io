@@ -1,0 +1,22 @@
+@charset "utf-8";
+/* CSS Document */
+body {
+background-color: red;
+}
+
+h1 {
+ color: blue;
+ background-color: yellow;
+ text-align: right;
+ }
+ 
+h2 {
+ color: green;
+ text-align: center;
+ font-family: Comic Sans, Courier, Verdana, Arial;
+}
+
+p {
+ color: yellow;
+ text-align:justify;
+ }
