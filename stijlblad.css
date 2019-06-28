@@ -8,6 +8,10 @@ h1 {
  color: blue;
  background-color: yellow;
  text-align: right;
+ border-width: 5px;
+ border-color: black;
+ border-style: double;
+ border-radius:5px;
  }
  
 h2 {
