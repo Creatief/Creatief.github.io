@@ -1,23 +1,45 @@
 @charset "utf-8";
 /* CSS Document */
 body {
-background-color: red;
+background-color: #1c263c;
+font-family: Verdana;
+font-size: 62.5%;
 }
+
+div {
+	margin: 10% 25% 10% 25%;
+	border-width: 0.2em;
+ 	border-style: double;
+ 	border-color: #B6C0D2;
+ 	border-radius: 10px;
+ }
+
 
 h1 {
- color: blue;
- background-color: yellow;
- text-align: left;
- width: 30%;
-  }
- 
-h2 {
- color: green;
+ color: #313C53;
+ background-color: #9CFFF0;
+ font-size: 3em;
  text-align: center;
- font-family: Comic Sans, Courier, Verdana, Arial;
+ padding: 2%;
+ border-width: 0.2em;
+ border-style: double;
+ border-color: #B6C0D2;
+ border-radius: 10px;
+   }
+ 
+ol,a,p {
+ color: #9CFFF0;
+ text-align: left;
+  }
+
+a,p {
+	font-size: 2em;
 }
 
-p {
- color: yellow;
- text-align:justify;
- }
+ol, h1,p{
+	margin: 5% 10%;
+}
+
+li,p {
+	padding: 0.2em;
+}
