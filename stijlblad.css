@@ -4,23 +4,3 @@ body {
 background-color: red;
 }
 
-h1 {
- color: blue;
- background-color: yellow;
- text-align: left;
- border-width: 5px;
- border-color: black;
- border-style: double;
- border-radius: 5px;
- }
- 
-h2 {
- color: green;
- text-align: center;
- font-family: Comic Sans, Courier, Verdana, Arial;
-}
-
-p {
- color: yellow;
- text-align:justify;
- }
